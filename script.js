@@ -1,9 +1,9 @@
-let images= ["die-1.jpg",
-"die-2.jpg",
-"die-3.jpg",
-"die-4.jpg",
-"die-5.jpg",
-"die-6.jpg"
+let images= ["images/die-1.jpg",
+"images/die-2.jpg",
+"images/die-3.jpg",
+"images/die-4.jpg",
+"images/die-5.jpg",
+"images/die-6.jpg"
 ];
 let dice = document.querySelectorAll ("img");
 function roll() {
